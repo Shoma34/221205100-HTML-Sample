@@ -40,6 +40,7 @@
     box-sizing: border-box;
 }
 ul, ol {
+    font-family:'Zen Maru Gothic';
     list-style: none;
 }
 a {
@@ -83,7 +84,7 @@ img {
     margin-right: 20px;
 }
 .site-menu ul li a {
-    font-family: 'DotGothic16', sans-serif;
+    font-family:'Zen Maru Gothic', sans-serif;;
 }
 @media (max-width: 800px) {
     .site-menu ul {
